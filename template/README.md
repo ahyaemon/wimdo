@@ -8,7 +8,7 @@ vue-cliでのライブラリ作成がうまくいかなかったので、webpack
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 差分コンパイル
 ```
 yarn run watch
 ```
